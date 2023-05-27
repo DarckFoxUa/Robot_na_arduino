@@ -1,4 +1,5 @@
 # Robot_na_arduino
- Implementacja modelu robota na platformie arduino
-kod do sterowania robotem robot_arduino.cpp
-dokumentacja do projektu Podstawy_Robotyki_lab_VT_VS.pdf
+Temat: Implementacja modelu robota na platformie arduino
+
+Kod do sterowania robotem robot_arduino.cpp.
+Dokumentacja do projektu Podstawy_Robotyki_lab_VT_VS.pdf
